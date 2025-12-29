@@ -1,0 +1,14 @@
+[github]
+organization = "rendeirolab"
+
+# GitHub Personal Access Token (classic) with repo scope (generate at: https://github.com/settings/tokens)
+token = "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+[codeberg]
+organization = "rendeirolab"
+
+# Codeberg Access Token with repo permissions (generate at: https://codeberg.org/user/settings/applications)
+token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+[mirror]
+work_directory = "~/.local/share/github-codeberg-mirror"
